@@ -1,0 +1,3 @@
+Selenium Training 
+Basic Framework setup:
+1. Install IDE
