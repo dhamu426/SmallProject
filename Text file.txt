@@ -1,4 +1,0 @@
-Selenium Training 
-Basic Framework setup:
-1. Install IDE
-2. GIT HUB

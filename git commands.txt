@@ -1,0 +1,6 @@
+git add
+git commit
+git checkout branch <Branch name>
+git status
+git clone remote <GitHub ssh link>
+//This will clone the remore repository to your local repository//
